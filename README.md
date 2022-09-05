@@ -1,7 +1,7 @@
-# piWASTE
+# piWASTE - Purposely Insecure Web Application for Security Training and Education
 ![Actions Workflow](https://github.com/mmalmi1/piWASTE/workflows/Flask/badge.svg)
 
-521479S Software project course project repository
+Educational purposely insecure website for demonstrating web vulnerabilities. Originally developed as a student project in UniOulu 521479S Software Project course in 2020. 
 
 ## Run the server
 Make sure you have `FLASK_APP` defined:
@@ -59,4 +59,3 @@ pip install -r requirements.txt
 ```bash
 python -m pytest
 ```
-
